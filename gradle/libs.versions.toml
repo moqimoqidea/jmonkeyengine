@@ -98,4 +98,3 @@ saferalloc = ["saferalloc", "saferalloc-natives-linux-x8664", "saferalloc-native
 
 [plugins]
 jacoco = { id = "jacoco", version.ref = "jacoco" }
-
